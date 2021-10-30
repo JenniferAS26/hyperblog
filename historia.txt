@@ -7,3 +7,10 @@ Esta es a historia de Jennifer
 nacida en Pereira Risaralda, ahora viviendo en Medellin
 
 le gustan los gatos y las plantas
+
+tiene 28 años y le gusta leer cumple años en diciembre
+
+en los últimos meses ha estado estudiando programación y ha descubierto
+que le gusta mucho la programación web y sobre todo el front 
+
+Ha hecho alrededor de 6 cursos de CSS y animaciones
